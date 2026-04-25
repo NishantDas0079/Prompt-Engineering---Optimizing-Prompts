@@ -59,7 +59,7 @@ All responses were collected in a single run using **GetMulti.ai**.
 - Top performers (Claude Opus 4.5 and Grok 4.1 Fast) demonstrated the strongest ability to ground their decision in absolute duties and individual rights rather than popularity or long-term benefits.
 - Lower-ranked models occasionally drifted into consequentialist language ("fosters trust", "long-term", "protect vulnerable") despite the "not utilitarianism" constraint.
 
-## My Personal Take (as CEO)
+## My Personal Take 
 
 Feature Y is the correct choice.
 
