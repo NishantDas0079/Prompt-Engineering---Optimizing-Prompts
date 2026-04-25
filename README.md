@@ -1,3 +1,9 @@
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Expert-blue?style=for-the-badge&logo=ai&logoColor=white)](https://github.com/topics/prompt-engineering)
+[![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-9_Models-orange?style=for-the-badge)](https://github.com/topics/llm-evaluation)
+[![AI Ethics](https://img.shields.io/badge/AI_Ethics-Deontological-red?style=for-the-badge)](https://github.com/topics/ai-ethics)
+[![Multi-Model Test](https://img.shields.io/badge/Multi--Model_Test-GetMulti.ai-8A2BE2?style=for-the-badge)](https://getmulti.ai)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Prompt Engineering
 # Designing Effective Prompts for Reliable AI Outputs
 
