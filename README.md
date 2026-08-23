@@ -3,6 +3,10 @@
 [![AI Ethics](https://img.shields.io/badge/AI_Ethics-Deontological-red?style=for-the-badge)](https://github.com/topics/ai-ethics)
 [![Multi-Model Test](https://img.shields.io/badge/Multi--Model_Test-GetMulti.ai-8A2BE2?style=for-the-badge)](https://getmulti.ai)
 
+Link for PROMPT LIBRARY :- https://prompts.chat/
+
+Link for LOOP LIBRARY :- https://signals.forwardfuture.com/loop-library/
+
 
 # Prompt Engineering
 # Designing Effective Prompts for Reliable AI Outputs
